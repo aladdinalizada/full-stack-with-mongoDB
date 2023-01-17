@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
+  .logo {
+    display: flex;
+    align-items: center;
+    img {
+      width: 60px;
+      margin-right: 10px;
+    }
+  }
+  .search {
+    display: flex;
+    align-items: center;
+    input {
+      width: 280px;
+      height: 30px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 0 10px;
+      outline: none;
+    }
+  }
+  .menu {
+    ul {
+      display: flex;
+      list-style: none;
+      li {
+        margin-left: 20px;
+        a {
+          color: #333;
+          text-decoration: none;
+          &.active {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+}
