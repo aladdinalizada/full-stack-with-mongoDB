@@ -1,7 +1,7 @@
 # Full Stack (MongoDB)
 Hello, I tried to create a server with mongoDB and generate with react in this repo
 ## How to start?
- for Client-side
+ ## for Client-side
 ```
 npm install
 ```
@@ -9,7 +9,7 @@ npm install
 ```
 npm run dev
 ```
- for Server-side
+## for Server-side
  
  ```
  node server.js
