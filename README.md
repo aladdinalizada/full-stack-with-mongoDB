@@ -1,5 +1,5 @@
 # Full Stack (MongoDB)
-Hello, I tried to create a server with mongoDB and generate with react in this repo
+Hello, I tried to create a server with mongoDB and generate with react in this repo.
 ## How to start?
  ## for Client-side
 ```
