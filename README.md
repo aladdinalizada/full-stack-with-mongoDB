@@ -14,6 +14,10 @@ npm run dev
  ```
  node server.js
  ```
+ OR
+ ```
+ nodemon server.js
+ ```
 ## How to run?
 
 Open http://localhost:5173 with your browser to see the result.
